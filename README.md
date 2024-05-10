@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thang a  full stack developer with .NET core - backend and ReactJS - frontend
+- 👋 Hi, I’m Thang a  BackEnd developer.
 - 👀 I’m interested in with coding, badminton and cars.
 - 🌱 I’m currently learning new tech to improve my technical skill.
 - I have 2 years of experience as an IT business analyst at the best retail company in Vietnam. I want to go deeper and learn more about the 
