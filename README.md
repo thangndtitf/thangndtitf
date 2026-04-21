@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Nguyễn Đinh Tất Thắng]
 
 🚀 Backend Developer | Core System | Financial/Stock Domain  
-💻 Strong in C/C++, SQL, System Design  
+💻 Strong in C/C++, Java, Spring Framework, Spring boot,SQL, System Design  
 📍 Ho Chi Minh City, Vietnam  
 
 ---
@@ -28,6 +28,7 @@
 -  Spring FrameWork / Spring Boot
 - RESTful API
 - Oracle / PLSQL / PostgreSql / SQLServer
+- JPA / Hibernate
 - Linux / SSH / SFTP 
 - .NET
 
