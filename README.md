@@ -24,10 +24,11 @@
 - C#
 
 ### ⚙️ Backend & Tools
-- Spring FrameWork/ Spring Boot
+-  Pro*C/C++
+-  Spring FrameWork / Spring Boot
 - RESTful API
-- Oracle / SQL
-- Linux / SSH
+- Oracle / PLSQL / PostgreSql / SQLServer
+- Linux / SSH / SFTP 
 - .NET
 
 ### 📱 Other
