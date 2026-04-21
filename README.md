@@ -42,7 +42,10 @@
 
 ### 🔹 Core Trading System
 > High-performance system handling stock orders  
-- Optimize SQL queries for large-scale data  
+- Optimize SQL queries for large-scale data
+- Developed real-time order processing modules for trading operations
+- Implemented transaction handling logic ensuring data consistency
+- Integrated banking systems for fund transfer and settlement
 - Process real-time transactions  
 
 ### 🔹 Mobile App (React Native)
