@@ -21,12 +21,14 @@
 - C / C++
 - Java
 - TypeScript
+- C#
 
 ### ⚙️ Backend & Tools
-- Spring Boot
+- Spring FrameWork/ Spring Boot
 - RESTful API
 - Oracle / SQL
 - Linux / SSH
+- .NET
 
 ### 📱 Other
 - React Native
@@ -46,16 +48,6 @@
 > Login system with Redux + Local Storage + Encryption  
 - Secure authentication  
 - State management  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 📫 Contact Me
 
