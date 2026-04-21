@@ -1,14 +1,69 @@
-<h1 align="center">Hi 👋, I'm Nguyen Dinh Tat Thang</h1>
-<h3 align="center">A passionate Backend Developer from Viet Nam.</h3>
+# 👋 Hi, I'm [Nguyễn Đinh Tất Thắng]
 
-- 🔭 I’m currently working on Altisss Hi tech **Altisss Stock Core**
+🚀 Backend Developer | Core System | Financial/Stock Domain  
+💻 Strong in C/C++, SQL, System Design  
+📍 Ho Chi Minh City, Vietnam  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/thangndtitf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thangndtitf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tất thắng nguyễn đinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tất thắng nguyễn đinh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tất thắng nguyễn đinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tất thắng nguyễn đinh" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🔥 About Me
+- 👨‍💻 Currently working as a **Core Securities Developer**
+- ⚡ Focus on **high-performance systems & data processing**
+- 🧠 Interested in **system design, low-level programming, optimization**
+- 🔐 Learning more about **API, Security & Data Encryption**
+- 🎯 Goal: Become a **Senior Backend Engineer / System Architect**
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming Languages
+- C / C++
+- Java
+- TypeScript
+
+### ⚙️ Backend & Tools
+- Spring Boot
+- RESTful API
+- Oracle / SQL
+- Linux / SSH
+
+### 📱 Other
+- React Native
+- Git / GitHub
+- Docker (basic)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Core Trading System
+> High-performance system handling stock orders  
+- Optimize SQL queries for large-scale data  
+- Process real-time transactions  
+
+### 🔹 Mobile App (React Native)
+> Login system with Redux + Local Storage + Encryption  
+- Secure authentication  
+- State management  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🐙 GitHub: https://github.com/yourusername  
+
+---
+
+## ⚡ Fun Fact
+> "Code is like trading – timing and precision matter."
